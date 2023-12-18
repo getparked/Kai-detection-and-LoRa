@@ -1,5 +1,5 @@
 # Raspberry Pi Setup
-1. Ensure that the LoRa board is connected by following the steps in /LoRa
+1. Ensure that the LoRa board is connected by following the steps in /LoRa and also that all the required libraries are installed as specified in Requirements.txt
 2. Run the script ./TTN setup/piToTNNSetup.py then press RST on the LoRa board
 3. "Connection to TTN" will print followed by "." until a connection happens
 4. Once a connection is made the serial monitor will display "Connected to TTN!", "Sending data", (data), "data sent", (data)
