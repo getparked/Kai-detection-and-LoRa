@@ -17,9 +17,11 @@ Upload this code onto the LoRa
 
 Disconnect the LoRa from the programming cable!!!
 
-Also connect Pi pins to Lora Pins (Pi -> Lora)
+Also, connect Pi pins to Lora Pins (Pi -> Lora)
 (5V -> 5V)
 (GND -> GND)
 (14 -> 22)
 (15 -> 23)
+
+Next, follow the instructions in /RaspberryPi
 
